@@ -19,16 +19,16 @@ h1 {
     left: 0px;
 }
 .tab {
-	position: absolute;
-	border: solid 2px #333333;
-	width: 111px;
+    position: absolute;
+    border: solid 2px #333333;
+    width: 111px;
     height: 35px;
     border-radius: 0 10px 10px 0;
-	top: 40px;
-	right: -83px;
+    top: 40px;
+    right: -83px;
 }
 #page_1 .tab {
-	background-color: #f68e56;
+    background-color: #f68e56;
 }
 #page_2 {
     border: solid 2px #333333;
@@ -43,8 +43,8 @@ h1 {
     left: 23px;
 }
 #page_2 .tab {
-	background-color: #39b54a;
-	right: -47px;
+    background-color: #39b54a;
+    right: -47px;
 }
 #page_3 {
     border: solid 2px #333333;
@@ -59,8 +59,8 @@ h1 {
     left: 46px;
 }
 #page_3 .tab {
-	background-color: #00aeef;
-	right: -11px;
+    background-color: #00aeef;
+    right: -11px;
 }
 .content {
     margin-left: 35px;
