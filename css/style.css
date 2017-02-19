@@ -8,7 +8,7 @@ h1 {
     font-weight: normal;
 }
 #page_1 {
-    border: solid 2px #333333;
+    border: solid 3px #333333;
     z-index: 2;
     background-color: #ebebeb;
     width: 525px;
@@ -20,7 +20,7 @@ h1 {
 }
 .tab {
     position: absolute;
-    border: solid 2px #333333;
+    border: solid 3px #333333;
     width: 111px;
     height: 35px;
     border-radius: 0 10px 10px 0;
@@ -31,7 +31,7 @@ h1 {
     background-color: #f68e56;
 }
 #page_2 {
-    border: solid 2px #333333;
+    border: solid 3px #333333;
     z-index: -1;
     background-color: #cccccc;
     width: 525px;
@@ -47,7 +47,7 @@ h1 {
     right: -47px;
 }
 #page_3 {
-    border: solid 2px #333333;
+    border: solid 3px #333333;
     z-index: -4;
     background-color: #acacac;
     width: 525px;
@@ -92,7 +92,7 @@ h1 {
 }
 footer {
     font-size: xx-small;
-    font-weight: normal;
+    font-weight: bold;
     text-align: center;
 }
 .social_links {
