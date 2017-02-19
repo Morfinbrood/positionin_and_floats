@@ -109,7 +109,9 @@ footer {
 .social_links p {
     margin-left: 13px;
     margin-top: 4px;
+    margin-bottom: 4px;
 }
 .social_links img {
-    margin: 3px;
+    margin-right: 3px;
+    margin-left: 3px;
 }
